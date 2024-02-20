@@ -25,6 +25,12 @@ If you find this package usefull, please consider bying me a coffee.
 
 You can install the package via composer:
 
+### Laravel 8,9,10 (PHP 8.1) (Pheanstalk 4)
+
+```bash
+composer require collective-thinking/artisan-beans
+```
+
 ### Laravel 6,7,8 (Pheanstalk 4)
 
 ```bash
@@ -90,6 +96,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Credits
 
 - [Peter Matseykanets](https://github.com/pmatseykanets)
+- [Collective Thinking](https://github.com/collective-thinking)
 - [All Contributors](../../contributors)
 
 ## License

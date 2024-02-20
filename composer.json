@@ -8,6 +8,11 @@
       "name": "Peter Matseykanets",
       "email": "pmatseykanets@gmail.com",
       "homepage": "https://github.com/pmatseykanets"
+    },
+    {
+      "name": "Collective Thinking",
+      "email": "tech@collective-thinking.com",
+      "homepage": "https://github.com/collective-thinking"
     }
   ],
   "require": {
